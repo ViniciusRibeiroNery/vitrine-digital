@@ -8,7 +8,7 @@ function App(){
   return (
     <div className="site">
       <header className="header">
-        <h1>Vitrine Digital</h1>
+        <h1>Hairbarbershop</h1>
         <nav>
           <a href="#inicio">Inicio</a>
           <a href="#catalogo">Catálogo</a>
